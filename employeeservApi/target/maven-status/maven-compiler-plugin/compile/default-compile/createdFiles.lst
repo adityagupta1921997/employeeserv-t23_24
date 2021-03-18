@@ -1,0 +1,11 @@
+com\paypal\bfs\test\employeeserv\api\model\Employee.class
+com\paypal\bfs\test\employeeserv\api\model\Address.class
+com\paypal\bfs\test\employeeserv\service\EmployeeService.class
+com\paypal\bfs\test\employeeserv\util\EmployeeAttributes.class
+com\paypal\bfs\test\employeeserv\util\EmployeeUtils.class
+com\paypal\bfs\test\employeeserv\api\EmployeeResource.class
+com\paypal\bfs\test\employeeserv\entity\EmployeeEntity.class
+com\paypal\bfs\test\employeeserv\api\model\DateOfBirth.class
+com\paypal\bfs\test\employeeserv\entity\AddressEntity.class
+com\paypal\bfs\test\employeeserv\exception\InvalidEmployeeException.class
+com\paypal\bfs\test\employeeserv\api\model\ErrorResponse.class
